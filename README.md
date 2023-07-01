@@ -8885,6 +8885,8 @@ HTML(html5_video)
 
 ![png](Data_Insider_files/Data_Insider_127_1.png)
 
+[Valor de mercado por Industria "CLICK AQUI PARA VER EN FORMA INTERACTIVA"](https://player.vimeo.com/video/841387026?autoplay=1&loop=1)
+
 **B.Crea otro gráfico de carrera de barras que muestre la variación del número de empleados por industria durante el periodo 2015 - 2022.**
 
 ```python
@@ -9014,6 +9016,8 @@ HTML(html5_video)
 <iframe src="https://player.vimeo.com/video/841387012?autoplay=1&loop=1" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ![png](Data_Insider_files/Data_Insider_132_1.png)
+
+[Cantidad de empleados por Industria "CLICK AQUI PARA VER EN FORMA INTERACTIVA"](https://player.vimeo.com/video/841387012?autoplay=1&loop=1)
 
 **C.Utilizando la biblioteca [Choropleth Maps in Python](https://plotly.com/python/choropleth-maps/#using-geopandas-data-frames), genera un mapa con el total de ventas globales por país en el año 2020**
 
