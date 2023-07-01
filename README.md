@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="/Data_Insider_files/datainsider.png" width="50px">
-    <a style="color: blue; font-size: 20px; display: block; text-align: center;" href="https://soysena-my.sharepoint.com/:p:/g/personal/mayad_soy_sena_edu_co/EfYwvASznrVArQn7FPbvjhMBPS_6ngQIgjOOHbGmFwNozQ?e=Mc1bAC" target="_blank">DataInsider</a>
+    <a style="color: blue; font-size: 20px; display: block; text-align: center;" href="https://soysena-my.sharepoint.com/:p:/g/personal/mayad_soy_sena_edu_co/EfYwvASznrVArQn7FPbvjhMBPS_6ngQIgjOOHbGmFwNozQ?e=Mc1bAC" target="_blank">Presentacion de Negocios - DataInsider</a>
 </div>
 
 **1. Configuración del Ambiente**
