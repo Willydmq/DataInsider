@@ -1,3 +1,8 @@
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="/Data_Insider_files/datainsider.png" width="50px">
+    <a style="color: blue; font-size: 20px; display: block; text-align: center;" href="https://soysena-my.sharepoint.com/:p:/g/personal/mayad_soy_sena_edu_co/EfYwvASznrVArQn7FPbvjhMBPS_6ngQIgjOOHbGmFwNozQ?e=Mc1bAC" target="_blank">DataInsider</a>
+</div>
+
 **1. Configuración del Ambiente**
 
 Para desarrollar este desafío te recomendamos trabajar directamente desde la plataforma **Google Colab**. (Recuerda que debes tener una cuenta en gmail, si aún no la tienes, debes crearla).
